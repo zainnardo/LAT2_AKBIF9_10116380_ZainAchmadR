@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="AppTheme.2" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlActivated">@color/lightblue</item>
+        <item name="colorControlHighlight">@color/lightblue</item>
+        <item name="colorPrimary">@color/lightblue</item>
+        <item name="colorPrimaryDark">@color/lightblue</item>
+
+
+    </style>
+
+</resources>

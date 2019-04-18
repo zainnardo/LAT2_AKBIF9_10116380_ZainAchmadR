@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">10116380_akb9_ZainAchmadR</string>
+    <string name="register">Doesn\'t have account ? <b>Register</b>  </string>
+
+    <string-array name="nama">
+        <item><font fgcolor="#808284">Blood Type</font></item>
+    </string-array>
+
+    <string-array name="job">
+        <item><font fgcolor="#808284">Job</font></item>
+    </string-array>
+
+    <string-array name="Reshus">
+        <item><font fgcolor="#808284">Reshus</font></item>
+    </string-array>
+
+</resources>
